@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class StudiKasus2 {
+public class StudiKasus223 {
     public static void main(String[] args) {
         java.util.Scanner sc = new Scanner(System.in);
         String jenisKegiatan = "";
